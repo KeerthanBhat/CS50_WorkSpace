@@ -1,0 +1,4 @@
+0. It allows dimensions of d x d, where d ranging from 3 to 9.
+1. An integer 2D array.
+2. greet() function is called at the game's start.
+3. init(), draw(), move(), won().
